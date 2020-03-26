@@ -1,0 +1,7 @@
+C:\Users\domin\source\repos\Bayes_Limanowka\Bayes_Limanowka\obj\Debug\Bayes_Limanowka.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\Bayes_Limanowka\Bayes_Limanowka\obj\Debug\Bayes_Limanowka.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\Bayes_Limanowka\Bayes_Limanowka\bin\Debug\Bayes_Limanowka.exe.config
+C:\Users\domin\source\repos\Bayes_Limanowka\Bayes_Limanowka\bin\Debug\Bayes_Limanowka.exe
+C:\Users\domin\source\repos\Bayes_Limanowka\Bayes_Limanowka\bin\Debug\Bayes_Limanowka.pdb
+C:\Users\domin\source\repos\Bayes_Limanowka\Bayes_Limanowka\obj\Debug\Bayes_Limanowka.exe
+C:\Users\domin\source\repos\Bayes_Limanowka\Bayes_Limanowka\obj\Debug\Bayes_Limanowka.pdb
