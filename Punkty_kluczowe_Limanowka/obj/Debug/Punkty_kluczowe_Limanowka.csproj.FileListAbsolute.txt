@@ -1,0 +1,7 @@
+C:\Users\domin\source\repos\Punkty_kluczowe_Limanowka\Punkty_kluczowe_Limanowka\obj\Debug\Punkty_kluczowe_Limanowka.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\Punkty_kluczowe_Limanowka\Punkty_kluczowe_Limanowka\obj\Debug\Punkty_kluczowe_Limanowka.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\Punkty_kluczowe_Limanowka\Punkty_kluczowe_Limanowka\bin\Debug\Punkty_kluczowe_Limanowka.exe.config
+C:\Users\domin\source\repos\Punkty_kluczowe_Limanowka\Punkty_kluczowe_Limanowka\bin\Debug\Punkty_kluczowe_Limanowka.exe
+C:\Users\domin\source\repos\Punkty_kluczowe_Limanowka\Punkty_kluczowe_Limanowka\bin\Debug\Punkty_kluczowe_Limanowka.pdb
+C:\Users\domin\source\repos\Punkty_kluczowe_Limanowka\Punkty_kluczowe_Limanowka\obj\Debug\Punkty_kluczowe_Limanowka.exe
+C:\Users\domin\source\repos\Punkty_kluczowe_Limanowka\Punkty_kluczowe_Limanowka\obj\Debug\Punkty_kluczowe_Limanowka.pdb
