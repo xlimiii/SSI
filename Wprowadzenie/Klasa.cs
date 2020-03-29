@@ -16,6 +16,11 @@ namespace Wprowadzenie
         Grafika gr = new Grafika();
             Bitmap btm = gr.Macierz(@nazwa);
             gr.Filtr_Sharpen(btm, nazwa);
+            gr.Filtr_EdgeDetection(btm, nazwa);
+            gr.Filtr_BoxBlur(btm, nazwa);
+            gr.Filtr_Uwypuklajacy_Wschod(btm, nazwa);
+            gr.Filtr_Gauss(btm, nazwa);
+
             //pobieranie danych, normalizacja, tasowanie
             string nazwatxt = "iris.txt";
             Dane dn = new Dane();

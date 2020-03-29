@@ -85,8 +85,69 @@ namespace Wprowadzenie
             }
             return tablica;
         }
+        public double[][] NormalizujMean(double[][] tablica)
+        {
+            double srednia = 0.0;
+            int ile = 0;
+            double min;
+            double max;
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < tablica.Length; j++)
+                {
+                    srednia += tablica[j][i];
+                    ile++;
+                }
+            }
+            srednia = srednia / ile;
 
-        public double[][] Tasuj(double[][] tablica)
+            for (int i = 0; i < 4; i++)
+            {
+                max = ZnajdzMax(tablica, i);
+                min = ZnajdzMin(tablica, i);
+                for (int j = 0; j < tablica.Length; j++)
+                {
+                    tablica[j][i] = (tablica[j][i] - srednia) / (max - min);
+                }
+            }
+            return tablica;
+        }
+        public double[][] NormalizujStandaryzacja(double[][] tablica)
+        {
+            double srednia = 0.0;
+            int ile = 0;
+            double odchylenie = 0.0;
+
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < tablica.Length; j++)
+                {
+                    srednia += tablica[j][i];
+                    ile++;
+                }
+            }
+            srednia = srednia / ile;
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < tablica.Length; j++)
+                {
+                    odchylenie += ((tablica[j][i] - srednia) * (tablica[j][i] - srednia));
+
+                }
+            }
+            odchylenie = odchylenie / ile;
+            odchylenie = Math.Sqrt(odchylenie);
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 0; j < tablica.Length; j++)
+                {
+                    tablica[j][i] = (tablica[j][i] - srednia) / odchylenie;
+                }
+            }
+            return tablica;
+        }
+
+            public double[][] Tasuj(double[][] tablica)
         {
             Random random = new Random();
             for (int i = tablica.Length - 1; i > 0; i--)
