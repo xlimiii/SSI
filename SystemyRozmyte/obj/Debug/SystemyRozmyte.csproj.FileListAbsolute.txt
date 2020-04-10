@@ -1,0 +1,7 @@
+C:\Users\domin\source\repos\SystemyRozmyte\SystemyRozmyte\obj\Debug\SystemyRozmyte.csprojAssemblyReference.cache
+C:\Users\domin\source\repos\SystemyRozmyte\SystemyRozmyte\obj\Debug\SystemyRozmyte.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\SystemyRozmyte\SystemyRozmyte\bin\Debug\SystemyRozmyte.exe.config
+C:\Users\domin\source\repos\SystemyRozmyte\SystemyRozmyte\bin\Debug\SystemyRozmyte.exe
+C:\Users\domin\source\repos\SystemyRozmyte\SystemyRozmyte\bin\Debug\SystemyRozmyte.pdb
+C:\Users\domin\source\repos\SystemyRozmyte\SystemyRozmyte\obj\Debug\SystemyRozmyte.exe
+C:\Users\domin\source\repos\SystemyRozmyte\SystemyRozmyte\obj\Debug\SystemyRozmyte.pdb
